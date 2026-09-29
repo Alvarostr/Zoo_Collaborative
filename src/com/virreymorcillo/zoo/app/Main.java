@@ -40,7 +40,7 @@ public class Main {
 
 
         // --- LINE 6 ---
-
+zoo.add(new Wolf("Lobo"));
 
         // --- LINE 7 ---
 
