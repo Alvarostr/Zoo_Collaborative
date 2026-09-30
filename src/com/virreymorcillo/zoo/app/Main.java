@@ -41,7 +41,7 @@ public class Main {
 
         // --- LINE 6 ---
         Animal wolf = new Wolf("Wolf");
-zoo.add(wolf);
+zoo.add(wolf); //comentario
         // --- LINE 7 ---
 
 
